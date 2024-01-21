@@ -1,0 +1,193 @@
+@media only screen and (max-width: 1231px) {
+    body{
+        padding: 0rem;
+    }
+    hr{
+        width: 8rem;
+    }
+}
+@media only screen and (max-width: 1280px) {
+    hr{
+        width: 8rem;
+    }
+}
+
+@media only screen and (max-width: 1121px) {
+    .main__left{
+        width: 50%;
+    }
+    .main__right{
+        padding: 2rem;
+        background-color: rgba(248, 247, 247, 0.588);
+    }
+    .main{
+        gap: 2rem;
+        background-color: white;
+    }
+    hr{
+        width: 12rem;
+    }
+}
+
+@media only screen and (max-width: 925px) {
+    body{
+        padding: 1rem;
+    }
+    .main{
+        gap: 4rem;
+        background-color: white;
+    }
+    .main__left{
+        width: 30%;
+    }
+    .main__left img{
+        width: 100%;
+    }
+    hr{
+        width: 10rem;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    body{
+        padding: 1rem;
+    }
+    .main{
+        gap: 0rem;
+        background-color: white;
+    }
+    .form__link a{
+        font-size: 1.1rem;
+    }
+    hr{
+        width: 8rem;
+    }
+}
+
+@media only screen and (max-width: 690px) {
+    .main{
+      flex-direction: column;
+    }
+    .main__left{
+        display: none;
+    }
+    hr{
+        width: 15rem;
+    }
+
+}
+@media only screen and (max-width: 575px) {
+
+    hr{
+        width: 10rem;
+    }
+
+}
+@media only screen and (max-width: 465px) {
+
+    hr{
+        width: 8rem;
+    }
+
+}
+@media only screen and (max-width: 435px) {
+
+    body{
+        padding: 0rem;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .main{
+        margin-top: -25rem;
+        width: 100%;
+    }
+    .main__right form{
+        width: 100%;
+        height: 72rem;
+        justify-content: space-evenly;
+    
+    }
+    hr{
+        width: 12rem;
+    }
+    
+}
+@media only screen and (max-width: 395px) {
+
+    hr{
+        width: 13rem;
+    }
+    span{
+        font-size: 1.8rem;
+    }
+    input[type="mail"],
+    input[type="password"]{
+        width: 100%;
+        height: 40%;
+    }
+    label{
+        font-size: 1.8rem;
+    }
+}
+
+
+
+@media only screen and (max-width: 380px) {
+     .main{
+        padding-top: 5rem;
+     }
+     hr{
+        width: 12rem;
+    }
+    .main__right form .form__password{
+        margin-top: -8rem;
+    }
+   
+}
+
+@media only screen and (max-width: 350px) { 
+ body{
+    padding: 0rem;
+ }   
+ .main{
+    margin-top: 0rem;
+    width: 100%;
+}
+.main__right{
+    padding: 1rem;
+}
+
+.main__right form{
+    width: 90%;
+    height: 72rem;
+    justify-content: space-evenly;
+
+}
+
+hr{
+    width: 9rem;
+}
+.main__right form .form__password{
+    margin-top: -8rem;
+}
+input[type="mail"],
+input[type="password"]{
+        width: 100%;
+        height: 30%;
+    }
+    .form__choise{
+        margin-top: -5rem;
+    
+    }
+}
+
+@media only screen and (max-width: 290px) {
+
+    hr{
+        width: 7rem;
+    }
+
+}
