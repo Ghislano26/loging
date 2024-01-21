@@ -160,6 +160,9 @@
        margin-top: 10rem;
         /* background-color: red; */
     }
+    hr{
+        width: 10rem;
+    }
   
 }
 
