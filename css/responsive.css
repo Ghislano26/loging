@@ -129,6 +129,10 @@
     label{
         font-size: 1.8rem;
     }
+    .main__right form{
+        margin-top: 10rem;
+         /* background-color: red; */
+     }
 }
 
 
@@ -143,6 +147,10 @@
     .main__right form .form__password{
         margin-top: -8rem;
     }
+    .main__right form{
+        margin-top: 10rem;
+         /* background-color: red; */
+     }
    
 }
 
